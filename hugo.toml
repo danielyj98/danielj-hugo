@@ -75,8 +75,8 @@ theme = "adritian-free-hugo-theme"
       enabled = false
   
   [params.logo]
-    text1 = "Cool"
-    text2 = "Name"
+    text1 = "Daniel"
+    text2 = "Jacobson"
 
   [params.footer]
       copyright = "© Adritian. Free Hugo theme by Adrián Moreno Peña."
